@@ -42,7 +42,7 @@ La Palma has been constructed by various phases of volcanism, the most recent an
 
 # Eruption History
 
-A number of eruptions were recorded since the colonization of the islands by Europeans in the late 1400s, these are summarized in [Table %s](#history).
+A number of eruptions were recorded since the colonization of the islands by Europeans in the late 1400s, these are summarized in [Table %s](#history). Hi there!
 
 > Simple tables may be created using the [list-table directive](https://mystmd.org/guide/tables). Similar to figures, tables may be referenced in the text by their `name`. The caption for this table is the first line of the directive.
 
