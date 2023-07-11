@@ -26,6 +26,8 @@ In September 2021, a significant jump in seismic activity on the island of La Pa
 
 La Palma is one of the west most islands in the Volcanic Archipelago of the Canary Islands, a Spanish territory situated is the Atlantic Ocean where at their closest point are 100km from the African coast [Figure %s](#map) The island is one of the youngest, remains active and is still in the island forming stage.
 
+Testing out adding some things and re-saving...
+
 > Figures may be added to your article using the [figure directive](https://mystmd.org/guide/figures). They may refer to images saved in your `images/` folder, images from the web, or notebook cell outputs [referenced by label](https://mystmd.org/guide/cross-references#targeting-cells). The `:name:` is used to reference the figure in your text; a reference to the following figure is found in the paragraph above. The figure caption is given as the body of this directive.
 
 ```{figure} images/la-palma-map.png
